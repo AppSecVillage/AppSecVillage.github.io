@@ -1,6 +1,6 @@
 # Welcome to the index (of doom - or CTF challenges - dealer's choice)
 
-This page is an index for all of the web CTF challenges made by [Nicos](https://twitter.com/AtomicNicos).
+This page is an index for all of the web CTF challenges made by [Maya](https://tech.lgbt/@AtomicMaya).
 
 If you were looking for the actual AppSec Village website, it's [here](https://appsecvillage.com).
 

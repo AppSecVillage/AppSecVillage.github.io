@@ -2,7 +2,7 @@ const m = {};
 const input = document.getElementById('input');
 const answer = document.getElementById('answer');
 
-const txt = 'Over the horizon!<br/>~ <a href="https://twitter.com/AtomicNicos">AtomicNicos</a>@ASV-DC29';
+const txt = 'Over the horizon!<br/>~ <a href="https://tech.lgbt/@AtomicMaya">AtomicMaya</a>@ASV-DC29';
 answer.innerHTML = txt;
 window.onload = function() {
   Particles.init({
